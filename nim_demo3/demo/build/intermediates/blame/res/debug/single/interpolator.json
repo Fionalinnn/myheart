@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/liangchao/Desktop/nim_demo3/demo/build/intermediates/res/merged/debug/interpolator/mtrl_linear.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/res/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "/Users/liangchao/Desktop/nim_demo3/demo/build/intermediates/res/merged/debug/interpolator/mtrl_fast_out_linear_in.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/res/interpolator/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "/Users/liangchao/Desktop/nim_demo3/demo/build/intermediates/res/merged/debug/interpolator/mtrl_linear_out_slow_in.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/res/interpolator/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/liangchao/Desktop/nim_demo3/demo/build/intermediates/res/merged/debug/interpolator/mtrl_fast_out_slow_in.xml",
+        "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/017682c0b7c5a891aea358cd7f0b91a6/res/interpolator/mtrl_fast_out_slow_in.xml"
+    }
+]

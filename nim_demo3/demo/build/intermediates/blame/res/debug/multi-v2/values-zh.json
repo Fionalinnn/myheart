@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/liangchao/Desktop/nim_demo3/demo/build/intermediates/res/merged/debug/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,128,192",
+                        "endColumns": "72,63,62",
+                        "endOffsets": "123,187,250"
+                    },
+                    "to": {
+                        "startLines": "9,10,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "507,580,644",
+                        "endColumns": "72,63,62",
+                        "endOffsets": "575,639,702"
+                    }
+                },
+                {
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-feedback-v4.7.3.aar/92c59fec108ccba86a02bd064b0fdf6c/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,183,242,308,373,433",
+                        "endColumns": "64,62,58,65,64,59,73",
+                        "endOffsets": "115,178,237,303,368,428,502"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/liangchao/Desktop/nim_demo3/demo/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh/values-zh.xml",
+            "map": [
+                {
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-search-v4.7.3.aar/6c9d01e8b5d323cefce48358d00ef1ab/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,128,192",
+                        "endColumns": "72,63,62",
+                        "endOffsets": "123,187,250"
+                    },
+                    "to": {
+                        "startLines": "9,10,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "507,580,644",
+                        "endColumns": "72,63,62",
+                        "endOffsets": "575,639,702"
+                    }
+                },
+                {
+                    "source": "/Users/liangchao/.gradle/caches/transforms-1/files-1.1/avoscloud-feedback-v4.7.3.aar/92c59fec108ccba86a02bd064b0fdf6c/res/values-zh/values-zh.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,183,242,308,373,433",
+                        "endColumns": "64,62,58,65,64,59,73",
+                        "endOffsets": "115,178,237,303,368,428,502"
+                    }
+                }
+            ]
+        }
+    ]
+}
